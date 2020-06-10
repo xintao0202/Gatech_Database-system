@@ -13,4 +13,4 @@ In the last phae, we need to use WAMP stack, implement our system in MySQL and P
 demo link: https://youtu.be/iwKeL9oaD5Y
 
 ## Project team member
-This project is done together by our team during the fall semester of 2016. Thanks for the other three team members (Linkedin of them here): Tingrong Tang, Xin Tao, Chunqing Yuan
+This project is done together by our team during the fall semester of 2016. Thanks for the other three team members: Liangliang Yang, Tingrong Tang, Chunqing Yuan
